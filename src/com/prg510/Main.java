@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Good day all, sets GIT");
         System.out.println("We hope Git is cool!!!");
         //Pull->Commit->Push
+	System.out.println("This looks dope ...");   
     }
 }
